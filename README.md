@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20ABU%20Hashir&fontSize=70&fontAlignY=38&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Mohammad%20Abu%20Hashir&fontSize=55&fontAlignY=38&animation=twinkling" />
 </div>
 
 <div align="center">
   
-  **CS Undergrad | Full-Stack Web Developer | C++ DSA Enthusiast**
+  **First-Year CS Engineering | C++ & DSA Developer | Linux Enthusiast**
   
-  *Bridging the gap between robust backend architectures and algorithmic problem-solving.*
+  *Operating in 'Ghost Mode' — Building deep logic, hacking systems, and writing clean code in silence.*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link-here)
   [![Portfolio](https://img.shields.io/badge/Website-perfelite.cloud-purple?style=for-the-badge&logo=vercel)](https://perfelite.cloud)
@@ -18,30 +18,32 @@
 
 ### 🚀 About Me
 
-I am a First-Year Computer Science student aiming for high-impact roles in tech. Unlike a standard beginner, I am actively building production-grade web applications with role-based access, custom server configurations, and database architectures, while simultaneously mastering Data Structures and Algorithms in C++.
+I am a First-Year Computer Science Engineering student currently operating in "Ghost Mode" to focus deeply on core programming and system architecture. While I am navigating the standard college system, my actual hours are spent executing 90-minute deep-work blocks on my Ubuntu workstation, mastering Data Structures and Algorithms, and developing production-grade web applications.
 
-- 🧠 **Currently focusing on:** Advanced Data Structures & Algorithms in C++ ([100 Days of Code Challenge](https://github.com/ABUHashir136/C-100-question)).
-- 💻 **Building:** Custom PHP/SQL web apps, Progressive Web Apps (PWAs), and SEO-optimized UI components.
-- ⚙️ **Passionate about:** System architecture, workflow efficiency (like custom keyboard shortcuts in web apps), and secure data handling.
+- 🧠 **Currently focusing on:** Advanced C++ logic, DSA ([100 Days of Code Challenge](https://github.com/ABUHashir136/C-100-question)), and Linux system administration.
+- 💻 **Building:** Production-ready web apps with PHP/SQL, custom server configurations, and algorithmic problem-solving.
+- ⚙️ **Passionate about:** System architecture, deep work routines, workflow efficiency (like custom keyboard shortcuts), and clean, distraction-free execution.
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
-**Languages:**
+**Core Programming & OS:**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Web & Databases:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & UI:**
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend, DB & Tools:**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Tools & Environment:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-11AB00?style=for-the-badge&logo=vim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/DNS%20&%20Hosting-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
@@ -76,20 +78,5 @@ A Progressive Web App tailored for medical consultation workflows.
 
 ---
 <div align="center">
-  <i>"Building logic in C++ and bringing it to life on the web."</i>
+  <i>"College is the toll-plaza. The Ubuntu terminal is the destination."</i>
 </div>
-
-<!--
-**ABUHashir136/ABUHashir136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
